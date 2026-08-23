@@ -26,7 +26,9 @@ elseif game.GameId == 113491250
 elseif game.GameId == 10537905600
     or game.PlaceId == 76583662972544
     or game.GameId == 10196241540
-    or game.PlaceId == 104097938617681 then
+    or game.PlaceId == 104097938617681
+    or game.GameId == 10750222214
+    or game.PlaceId == 122577517724086 then
     loaderUrl = "https://api.luarmor.net/files/v4/loaders/26cc8ca8909e956bbcc26a69dbbffc4a.lua"
 
 elseif game.GameId == 6299794716
